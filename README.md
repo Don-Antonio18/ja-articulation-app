@@ -1,8 +1,9 @@
 # Topic Practice App
 
-A scaffolded two-page frontend for articulation practice.
+Improve your impromptu speaking skills with random topics and a one-minute timer.
 
-## Scripts
+
+# How to Run
 
 ```bash
 npm install
